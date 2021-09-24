@@ -36,4 +36,8 @@ Tell me what features you want to be included by opening an [issue](https://gith
 - Play videos in the application
 
 # Wiki
-Please also take a look at the projects [wiki](https://github.com/Schmiddiii/Tubefeeder/wiki) if you have any problems (e.g. MPV being slow) or don't know how to do something (e.g. subscribing to a channel)
+Please also take a look at the projects [wiki](https://www.tubefeeder.de/wiki/index.html) if you have any problems (e.g. MPV being slow) or don't know how to do something (e.g. subscribing to a channel)
+
+# Donate
+
+If you like this project and want to financially support it, consider [donating](https://www.tubefeeder.de/donate.html).
