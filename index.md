@@ -20,7 +20,7 @@ Do not like some videos of a channel? Just filter them out!
 
 ## Subscriptions
 
-![Subscriptions](https://github.com/Schmiddiii/Tubefeeder/blob/master/screenshots/tubefeeder_screenshot_feed.png?raw=true)
+![Subscriptions](https://github.com/Schmiddiii/Tubefeeder/blob/master/screenshots/tubefeeder_screenshot_subscriptions.png?raw=true)
 
 Subscribe to a channel without given youtube your soul.
 You can also import your subscriptions from [NewPipe](https://newpipe.net/).
