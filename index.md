@@ -2,25 +2,25 @@
 
 ## Feed
 
-<img src="https://github.com/Schmiddiii/Tubefeeder/blob/master/screenshots/tubefeeder_screenshot_feed.png?raw=true" alt="Feed" width="400"/>
+<img src="https://github.com/Tubefeeder/Tubefeeder/blob/master/screenshots/tubefeeder_screenshot_feed.png?raw=true" alt="Feed" width="400"/>
 
 Your central place for all your videos.
 
 ## Watch Later List
 
-<img src="https://github.com/Schmiddiii/Tubefeeder/blob/master/screenshots/tubefeeder_screenshot_watch_later.png?raw=true" alt="Watch Later" width="400"/>
+<img src="https://github.com/Tubefeeder/Tubefeeder/blob/master/screenshots/tubefeeder_screenshot_watch_later.png?raw=true" alt="Watch Later" width="400"/>
 
 Keep videos you do not have time to watch now.
 
 ## Filters
 
-<img src="https://github.com/Schmiddiii/Tubefeeder/blob/master/screenshots/tubefeeder_screenshot_filters.png?raw=true" alt="Filters" width="400"/>
+<img src="https://github.com/Tubefeeder/Tubefeeder/blob/master/screenshots/tubefeeder_screenshot_filters.png?raw=true" alt="Filters" width="400"/>
 
 Do not like some videos of a channel? Just filter them out!
 
 ## Subscriptions
 
-<img src="https://github.com/Schmiddiii/Tubefeeder/blob/master/screenshots/tubefeeder_screenshot_subscriptions.png?raw=true" alt="Subscriptions" width="400"/>
+<img src="https://github.com/Tubefeeder/Tubefeeder/blob/master/screenshots/tubefeeder_screenshot_subscriptions.png?raw=true" alt="Subscriptions" width="400"/>
 
 Subscribe to a channel without given youtube your soul.
 You can also import your subscriptions from [NewPipe](https://newpipe.net/).
