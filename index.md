@@ -24,11 +24,23 @@ Do not like some videos of a channel? Just filter them out!
 
 Subscribe to a channel without given youtube your soul.
 You can also import your subscriptions from [NewPipe](https://newpipe.net/).
+You can subscribe to any channel from the supported platforms.
+
+## Supported Platforms
+
+Currently supported are:
+
+- Youtube (using Piped as the backend to prevent throttling)
+- Peertube
+- Lbry
 
 ## Choose a video player
 
 Play the videos in the player of your choise. By default, [mpv](https://mpv.io/) is chosen,
 but this can be changed easily. Look at [these instructions](https://www.tubefeeder.de/wiki/different-player.html).
+
+__Note__: Currently mpv with youtube-dl does not play nice with lbry-videos.
+__Note__: Depending on the player you use, you may not be able to play videos from some platforms.
 
 # Wiki
 
