@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: Tubefeeder
-description: "A Youtube-Client made for the Pinephone"
+description: "A Youtube, Lbry and Peertube client made for the Pinephone"
 
 github:
   is_project_page: true
