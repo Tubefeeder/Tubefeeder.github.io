@@ -22,7 +22,7 @@ Do not like some videos of a channel? Just filter them out!
 
 <img src="https://github.com/Tubefeeder/Tubefeeder/blob/master/screenshots/tubefeeder_screenshot_subscriptions.png?raw=true" alt="Subscriptions" width="400"/>
 
-Subscribe to a channel without given youtube your soul.
+Subscribe to a channel.
 You can also import your subscriptions from [NewPipe](https://newpipe.net/).
 You can subscribe to any channel from the supported platforms.
 
@@ -36,11 +36,29 @@ Currently supported are:
 
 ## Choose a video player
 
-Play the videos in the player of your choise. By default, [mpv](https://mpv.io/) is chosen,
+Play the videos in the player of your choice. By default, [mpv](https://mpv.io/) is chosen,
 but this can be changed easily. Look at [these instructions](https://www.tubefeeder.de/wiki/different-player.html).
 
 __Note__: Currently mpv with youtube-dl does not play nice with lbry-videos.
+
 __Note__: Depending on the player you use, you may not be able to play videos from some platforms.
+
+# Installation
+
+<table>
+  <tr>
+    <td>Flatpak</td>
+    <td>AUR</td>
+  </tr>
+  <tr>
+    <td>
+      <a href='https://flathub.org/apps/details/de.schmidhuberj.tubefeeder'><img width='130' alt='Download on Flathub' src='https://flathub.org/assets/badges/flathub-badge-en.png'/></a>
+    </td>
+    <td>
+      <a href='https://aur.archlinux.org/packages/tubefeeder'>Stable</a> - <a href='https://aur.archlinux.org/packages/tubefeeder-git'>Git</a>
+    </td>
+  </tr>
+</table>
 
 # Wiki
 
