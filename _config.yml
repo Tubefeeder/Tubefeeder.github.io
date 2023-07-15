@@ -1,8 +1,8 @@
 theme: jekyll-theme-slate
-title: Tubefeeder
+title: Pipeline
 description: "A Youtube, Lbry and Peertube client made for the Pinephone"
 
 github:
   is_project_page: true
-  repository_url: "https://github.com/Tubefeeder/Tubefeeder"
+  repository_url: "https://github.com/Tubefeeder/Pipeline"
 
