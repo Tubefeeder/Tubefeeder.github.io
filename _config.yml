@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: Pipeline
-description: "A Youtube, Lbry and Peertube client made for the Pinephone"
+description: "Watch YouTube, LBRY, and PeerTube videos in one place"
 
 github:
   is_project_page: true
