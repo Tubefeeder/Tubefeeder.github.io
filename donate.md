@@ -1,5 +1,3 @@
-# Donating
+<meta http-equiv="Refresh" content="0; url='https://mobile.schmidhuberj.de/pipeline'" />
 
-Thank you for considering to donate to this project. Currently you can only donate via [Monero](https://www.getmonero.org/).
-
-Address: 82pRFY4iUjVUWm48ykaTKbjYeDksdMunWPHbrDbTmyKF7PWAxNX8FXM7G6B1n4NFvHfr3ztEg411A2gCjJjNJ8PtEnmcehf
+This repository was moved to <https://mobile.schmidhuberj.de/pipeline>. You should be redirected automatically.
