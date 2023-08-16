@@ -1,8 +1,0 @@
-theme: jekyll-theme-slate
-title: Pipeline
-description: "Watch YouTube, LBRY, and PeerTube videos in one place"
-
-github:
-  is_project_page: true
-  repository_url: "https://github.com/Tubefeeder/Pipeline"
-
